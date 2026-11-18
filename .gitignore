@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Private research data (videos and physiological logs)
+goal1/private_data/
+goal2/private_data/
+
+# Legacy locations kept ignored for safety
+validation_videos/
+oscillation_log.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,52 @@
+Nystagmus previous researches: 
+
+Linking Eye oscillations and stress in nystagmus :
+
+2008:
+https://iovs.arvojournals.org/article.aspx?articleid=2125676	: 
+Proved that during stress: Eye oscillations increased:
+Tracked Eye movements with High-speed infrared eye-tracking equipment (such as an EyeLink or ISCAN system) 
+Tracked Stress levels using Heart Rate sensors and Sweat sensors
+
+2007: 
+https://www.researchgate.net/publication/6369481_Infantile_Nystagmus_Adapts_to_Visual_Demand#:~:text=the%20primary%20position%20and%20not%20at%20each,the%20cost%20of%20visual%20performance.%20In%20the.	
+Says that increased visual demand actually modifies the nystagmus waveform favorably by reducing intensity and prolonging foveation to aid vision. They suggest that historical reports of visual effort worsening nystagmus are likely caused by psychological stress or task importance rather than the pure visual demand of the task itself. 
+
+
+2013:
+https://iovs.arvojournals.org/article.aspx?articleid=2127577	
+Answered the Question: Do increased eye oscillations due to stress in nystagmus cause a degradation in vision?
+No decrease in vision when in stress but it increases response time to a task which means visual functioning may degrade
+
+2020
+https://pubmed.ncbi.nlm.nih.gov/32627590/	
+Can you learn some therapies/practices to voluntarily decrease eye oscillations which increase during stress?
+Yes you can
+
+Stress measured through Galvanic sensors for sweat + HRV
+
+Linking Head Nodding and stress IN nystagmus:
+Head nodding occurs in 30-50% of nystagmus patients
+
+
+1982: 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC490303/	
+Proved that Head nodding in most nystagmus patients is to cancel out eye movements like how a gyroscope works
+Found out that Head nodding and eye movement are 180 degree out of phase in most patients: Directly opposite(compensatory)
+But in some: no relation: so not compensatory : this is random
+Head nodding measured using hard ware accelerometers  , scleral lenses (something complex)
+
+
+2015
+Head oscillations in infantile nystagmus syndrome
+https://www.jaapos.org/article/S1091-8531(15)00003-8/abstract	
+It is not a compensatory mechanism as told by the 1982 research , no correlation between head nodding and eye directions exists
+
+
+
+
+
+
+
+
+
